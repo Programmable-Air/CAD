@@ -1,5 +1,6 @@
 # CAD
-CAD files for Programmable-Air
+
+CAD files for Programmable-Air. The files are also available at sketchfab.com/programmable-air
 
 ## MockUp
 
