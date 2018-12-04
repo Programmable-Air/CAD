@@ -8,4 +8,4 @@ CAD files for Programmable-Air. The files are also available at [SketchFab](http
 
 ## MockUp
 
-![mockUp!](https://github.com/Programmable-Air/CAD/media/mockUp.png)
+![mockUp!](https://github.com/Programmable-Air/CAD/blob/master/media/mockUp.png)
