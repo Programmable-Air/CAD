@@ -1,8 +1,8 @@
 # CAD
 
-## Crowdfunding live at [CrowdSupply](https://www.crowdsupply.com/tinkrmind/programmable-air)
+<!--- ## Crowdfunding live at [CrowdSupply](https://www.crowdsupply.com/tinkrmind/programmable-air) <>
 
-[![Programmable-Air at CrowdSupply](https://i.imgur.com/vPuFaX5.png)](https://www.crowdsupply.com/tinkrmind/programmable-air)
+[![Programmable-Air at CrowdSupply](https://i.imgur.com/vPuFaX5.png)](https://www.crowdsupply.com/tinkrmind/programmable-air) --->
 
 
 CAD files for Programmable-Air. The files are also available at [SketchFab](https://sketchfab.com/programmable-air/models)
